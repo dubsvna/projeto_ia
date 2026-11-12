@@ -12,4 +12,4 @@
  
 ## Notebooks
  
-- [`01_eda.ipynb`](notebooks/01_eda.ipynb) — análise exploratória: carregamento, valores nulos, contagem de usuários/artistas, distribuição de reproduções, top artistas, esparsidade da matriz usuário-artista.
+- [`01_eda.ipynb`](notebooks/01_eda_p1.ipynb) — análise exploratória: carregamento, valores nulos, contagem de usuários/artistas, distribuição de reproduções, top artistas, esparsidade da matriz usuário-artista.

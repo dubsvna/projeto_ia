@@ -1,2 +1,8 @@
-pandas
 numpy
+torch
+torch_geometric
+implicit
+scipy
+pandas
+pyarrow
+tabulate
