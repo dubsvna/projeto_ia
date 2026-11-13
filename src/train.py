@@ -1,3 +1,11 @@
+'''
+Projeto de IA (N2) - Recomendação musical por agregação de vizinhança aprendida
+Integrantes: Alex Cruz de Santana 10420357; Arthur Jones Bicalho dos Santos 10420317;
+             Luis Felipe Santos do Nascimento 10420572
+Síntese: treino do GraphSAGE com perda BPR, amostragem de negativos e early stopping na validação.
+Histórico:
+2026-11-10 | Arthur | Criação do módulo
+'''
 import time, copy, numpy as np, pandas as pd, torch, torch.nn.functional as F
 from src.model import RecGNN
 from src.metrics import evaluate

@@ -1,3 +1,11 @@
+'''
+Projeto de IA (N2) - Recomendação musical por agregação de vizinhança aprendida
+Integrantes: Alex Cruz de Santana 10420357; Arthur Jones Bicalho dos Santos 10420317;
+             Luis Felipe Santos do Nascimento 10420572
+Síntese: GraphSAGE sobre a vizinhança das caminhadas, com pesos de agregação fixos ou aprendidos.
+Histórico:
+2026-11-10 | Arthur | Criação do módulo
+'''
 import torch, torch.nn as nn, torch.nn.functional as F
 from torch_geometric.nn import MessagePassing
 from torch_geometric.utils import softmax

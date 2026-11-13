@@ -1,8 +1,13 @@
 numpy
-torch
-torch_geometric
-implicit
 scipy
 pandas
 pyarrow
+matplotlib
 tabulate
+tqdm
+torch
+torch_geometric
+implicit
+jupyter
+nbconvert
+ipykernel

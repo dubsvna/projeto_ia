@@ -1,0 +1,4 @@
+etapa,usuários,artistas,interações,esparsidade,artistas/usuário (mediana),treino/val/teste
+base bruta,359349,292588,17559328,0.9998329928978407,49.0,
+após limpeza,359349,291430,17559241,0.9998323301242078,49.0,
+após filtros e subamostra,19653,11802,837146,0.9963907518544528,44.0,670010 / 83568 / 83568

@@ -1,3 +1,11 @@
+'''
+Projeto de IA (N2) - Recomendação musical por agregação de vizinhança aprendida
+Integrantes: Alex Cruz de Santana 10420357; Arthur Jones Bicalho dos Santos 10420317;
+             Luis Felipe Santos do Nascimento 10420572
+Síntese: avaliação comum a todos os modelos (Precision, Recall, NDCG, cobertura e popularidade @K).
+Histórico:
+2026-11-10 | Arthur | Criação do módulo
+'''
 import numpy as np
 
 def evaluate(score_fn, mask, target, Ks=(10, 50), batch=2000):
