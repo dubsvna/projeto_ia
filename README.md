@@ -5,6 +5,10 @@
 *Arthur Jones Bicalho - 10420317 - 10420317@mackenzista.com.br*
 *Luis Felipe Santos do Nascimento - 10420572 - luisfelipesdn12@gmail.com*
 
+## Vídeo de apresentação
+
+https://youtu.be/qiiSOv-c7Io
+
 ## Dataset utilizado
  
 **Last.fm-360K** (Celma, 2010), distribuído pelo Music Technology Group (UPF). Contém interações usuário-artista (contagem de reproduções), com identificador de usuário anonimizado na origem (hash SHA1). Fonte: https://www.upf.edu/web/mtg/lastfm360k
