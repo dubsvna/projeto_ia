@@ -1,11 +1,12 @@
 '''
 Projeto de IA (N2) - Recomendação musical por agregação de vizinhança aprendida
-Integrantes: Alex Cruz de Santana 10420357; Arthur Jones Bicalho dos Santos 10420317;
+Integrantes: Arthur Jones Bicalho dos Santos 10420317;
              Luis Felipe Santos do Nascimento 10420572
 Síntese: carregamento, limpeza, filtro k-core, subamostra, indexação e split da base Last.fm-360K.
 Histórico:
 2026-11-10 | Arthur | Criação do módulo
 2026-11-13 | Luis Felipe | Caminhos ancorados na raiz do repositório e busca dos .tsv em subpastas de data/raw
+2026-11-18 | Luis Felipe | Atualização da lista de integrantes
 '''
 import numpy as np, pandas as pd, scipy.sparse as sp
 from pathlib import Path

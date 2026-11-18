@@ -3,7 +3,6 @@
 ## Integrantes
 
 *Arthur Jones Bicalho - 10420317 - 10420317@mackenzista.com.br*
-*Alex Cruz de Santana - 10420357 - 10420357@mackenzista.com.br*
 *Luis Felipe Santos do Nascimento - 10420572 - luisfelipesdn12@gmail.com*
 
 ## Dataset utilizado

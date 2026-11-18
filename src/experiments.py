@@ -1,12 +1,13 @@
 '''
 Projeto de IA (N2) - Recomendação musical por agregação de vizinhança aprendida
-Integrantes: Alex Cruz de Santana 10420357; Arthur Jones Bicalho dos Santos 10420317;
+Integrantes: Arthur Jones Bicalho dos Santos 10420317;
              Luis Felipe Santos do Nascimento 10420572
 Síntese: execução dos experimentos em processos paralelos (grade de hiperparâmetros na
          validação e rodada final por semente), para viabilizar o treino em CPU.
 Histórico:
 2026-11-13 | Luis Felipe | Criação do módulo
 2026-11-13 | Luis Felipe | Cache em disco por job, para retomar execuções interrompidas
+2026-11-18 | Luis Felipe | Atualização da lista de integrantes
 '''
 import json
 import multiprocessing as mp
